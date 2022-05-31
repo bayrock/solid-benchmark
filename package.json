@@ -1,0 +1,20 @@
+{
+  "name": "solid-benchmark",
+  "version": "0.0.1",
+  "description": "SolidJS project inspired by the HumanBenchmark",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "sass": "^1.52.1",
+    "vite": "^2.9.9",
+    "vite-plugin-solid": "^2.2.6"
+  },
+  "dependencies": {
+    "solid-js": "^1.4.2"
+  }
+}
