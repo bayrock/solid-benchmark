@@ -1,3 +1,5 @@
 {
-    "MAX_CLICKS": 5
+    "MAX_CLICKS": 3,
+    "MIN_INTERVAL": 2,
+    "MAX_INTERVAL": 5
 }
